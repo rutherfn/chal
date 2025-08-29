@@ -1,6 +1,6 @@
 # Chal
 
-Chal was a native android application that allowed users to create a account; and track progression of goals within the app. It became a passion project with a group of friends; that are no longer active.
+Chal was a native android application that allowed users to create a account; and track progression of goals within the app. It became a passion project with a group of friends; we are no longer supporting the project. 
 
 ## Tech Stack Used
 
